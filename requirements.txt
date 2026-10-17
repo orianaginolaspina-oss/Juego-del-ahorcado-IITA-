@@ -1,0 +1,13 @@
+colorama==0.4.6
+ 
+
+
+# requirements.txt: lista de las librerias externas que necesita el proyecto.
+
+# Sirve para instalarlas todas juntas con un solo comando:
+#   python -m pip install -r requirements.txt
+
+# colorama: pone colores en la terminal.
+
+# random no se necesita instalar porque es una libreria interna de Python.
+ 
